@@ -10,3 +10,4 @@
 /var/tmp
 /var/cache
 /var/log
+/home/pi/RetroPie/roms
